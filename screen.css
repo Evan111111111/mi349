@@ -33,7 +33,11 @@ main {
 }
 
 .details section p {
-    margin: 20px; 
+    margin: 25px; 
+}
+
+.details section h2{
+    margin: 25px;
 }
 
 .details section.with-code{
